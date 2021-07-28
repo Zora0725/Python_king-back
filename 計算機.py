@@ -23,7 +23,7 @@ def clear():
     equ.set("0")
     
 root = Tk()
-root.title("計算器")
+root.title("計算機")
 
 equ = StringVar()
 equ.set("0")
